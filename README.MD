@@ -4,7 +4,7 @@
 # [English Version](README_EN.MD)
 
 ### 作者：技术爬爬虾
-B站，YouTube，抖音，公众号 全网同名。转载请注明作者。
+转载请注明作者。
 
 ## 项目简介
 #### Demo: [https://play.210718.xyz](https://play.210718.xyz)
