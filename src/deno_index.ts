@@ -17,7 +17,7 @@ async function handleWebSocket(req: Request): Promise<Response> {
   const { socket: clientWs, response } = Deno.upgradeWebSocket(req);
   
   const url = new URL(req.url);
-  const targetUrl = `wss://generativelanguage.googleapis.com${url.pathname}${url.search}`;
+  const targetUrl = `wss://gemini-proxy-api.mrsuperz.workers.dev${url.pathname}${url.search}`;
   
   console.log('Target URL:', targetUrl);
   
